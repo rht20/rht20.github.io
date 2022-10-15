@@ -1,3 +1,2 @@
-# rht20.github.io (https://rht20.github.io)
+### <a href="https://rht20.github.io" target="_blank">My portfolio site (rht20.github.io)</a>
 
-My portfolio site
